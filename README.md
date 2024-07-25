@@ -23,4 +23,12 @@
 ![](https://github.com/donghune/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/donghune/github-stats-transparent/blob/output/generated/languages.svg)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/donghune"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
